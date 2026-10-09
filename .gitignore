@@ -1,0 +1,9 @@
+build/
+erl_crash.dump
+*.beam
+*.ez
+.DS_Store
+node_modules/
+# Compiled client, produced by `make build`
+server/priv/static/*
+!server/priv/static/.gitkeep

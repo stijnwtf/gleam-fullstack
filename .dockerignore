@@ -1,0 +1,5 @@
+**/build
+.git
+server/priv/static/*.js
+server/priv/static/*.css
+server/priv/static/*.html
