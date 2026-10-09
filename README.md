@@ -32,7 +32,7 @@ Getting there still takes a lot of glue though: three projects, path dependencie
 
 ## Quick start
 
-You need [Gleam](https://gleam.run/getting-started/installing/) 1.19+ and Erlang/OTP 28+ (versions are pinned in `.tool-versions` for asdf/mise).
+You need [Gleam](https://gleam.run/getting-started/installing/) 1.19+, Erlang/OTP 28+ and rebar3 (versions are pinned in `.tool-versions` for asdf/mise; on macOS: `brew install gleam erlang rebar3`).
 
 ```bash
 git clone https://github.com/stijnwtf/gleam-fullstack my-app
